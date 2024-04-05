@@ -52,6 +52,6 @@ kubectl get pods
 # (OR ) -- Update file avilable, just execute below command
 
 ```
-https://raw.githubusercontent.com/kloudbytes/k8s-129metric-server/main/metricserver-k8s1.29.yaml
+kubectl apply -f https://raw.githubusercontent.com/kloudbytes/k8s-129metric-server/main/metricserver-k8s1.29.yaml
 ```
 
