@@ -1,4 +1,4 @@
-# k8s-129metric-server
+# k8s-1.29metric-server
 ## On Master node - Configure Kubernetes metric server - kubeadm 1.29  vresion
 
 ## Step1: Download Metrics Server Manifest
